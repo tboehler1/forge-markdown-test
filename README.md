@@ -1,4 +1,5 @@
-> **NOTE**
+> **NOTE**: Moving to GitLab
+> 
 > This is a note that could say that we moved to GitLab. This representation
 > might only work on GitHub.
 
