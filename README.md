@@ -1,8 +1,9 @@
 > **NOTE**: Moving to GitLab
 > 
-> We have recently moved our repositories to GitLab. You can find the
-> Revolution Pi GitLab Organization here: https://gitlab.com/revolutionpi  
-> All repositories on GitHub will stay up-to-date.
+> We have recently moved our repositories to GitLab. You can find
+> REPOSITORY_NAME here: https://gitlab.com/revolutionpi/REPOSITORY_NAME  
+> All repositories on GitHub will stay up-to-date by being synchronised from
+> GitLab.
 > 
 > We still maintain a presence on GitHub but our work happens over at GitLab. If
 > you want to contribute to any of our projects we would prefer this contribution
@@ -12,9 +13,10 @@
 <details>
 <summary>We have moved to GitLab! Read this for more information.</summary>
 
-We have recently moved our repositories to GitLab. You can find the Revolution
-Pi GitLab Organization here: https://gitlab.com/revolutionpi  
-All repositories on GitHub will stay up-to-date.
+We have recently moved our repositories to GitLab. You can find REPOSITORY_NAME
+here: https://gitlab.com/revolutionpi/REPOSITORY_NAME  
+All repositories on GitHub will stay up-to-date by being synchronised from
+GitLab.
 
 We still maintain a presence on GitHub but our work happens over at GitLab. If
 you want to contribute to any of our projects we would prefer this contribution
